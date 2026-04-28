@@ -1,0 +1,13 @@
+torch
+torchvision
+ftfy
+regex
+tqdm
+imageio
+imageio-ffmpeg
+matplotlib
+scikit-image
+lpips
+einops
+ninja
+git+https://github.com/openai/CLIP.git
